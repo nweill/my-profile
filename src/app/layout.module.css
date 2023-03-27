@@ -16,7 +16,7 @@
 
     grid-gap: 1rem;
 
-    padding-top: 1rem;
+    padding-top: 3rem;
 }
 
 .logo {
@@ -29,6 +29,7 @@
 
 .main {
     grid-row: 3;
+    padding-top: 1rem;
 }
 
 /* desktop version */

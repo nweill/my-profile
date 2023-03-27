@@ -5,7 +5,7 @@ import { MY_NAME } from "@/app/globals"
 export default function Logo() {
     return (
         <Link aria-label={MY_NAME} href="/">
-            <Image src="/images/logo.png" alt="Logo" width={100} height={100} />
+            <Image src="/images/B.png" alt="Logo" width={100} height={100} />
         </Link>
     )
 }

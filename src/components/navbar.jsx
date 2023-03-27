@@ -19,20 +19,20 @@ const navItems = {
     "/": {
         name: "home",
         mobileX: 0,
-        desktop: [17, 1], // x, y
-        width: 63,
+        desktop: [29, 1], // x, y
+        width: 61,
     },
     "/about": {
         name: "about",
         mobileX: 69,
-        desktop: [17, 41], // x, y
+        desktop: [29, 41], // x, y
         width: 63,
     },
     "/tech-stack": {
-        name: "tech stack",
+        name: "technologies",
         mobileX: 137,
         desktop: [1, 82], // x, y
-        width: 96,
+        width: 116,
     },
 }
 

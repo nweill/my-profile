@@ -17,6 +17,13 @@ const techStack = [
         url: "https://nextjs.org/",
         svg: "next.svg",
     },
+    {
+        key: "github",
+        name: "GitHub Codespaces",
+        description: "A cloud-based development environment",
+        url: "https://github.com/features/codespaces",
+        svg: "github.svg",
+    },
 ]
 
 export default function MyTechStack() {
