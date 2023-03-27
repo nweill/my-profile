@@ -1,5 +1,7 @@
 "use client" // we need this because framer-motion uses react context
 
+// Framer Motion concept taken from https://github.com/leerob/leerob.io
+
 import clsx from "classnames"
 import Link from "next/link"
 import { usePathname } from "next/navigation"
