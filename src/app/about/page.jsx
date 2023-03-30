@@ -10,8 +10,7 @@ export default function About() {
             <p className={styles.text}>
                 {`${firstName} is a passionate computer programmer with over 20 years of
                 experience. He loves exploring new technologies and creating
-                innovative solutions. ${firstName} runs a small software company
-                specializing in medical billing services.`}
+                innovative solutions. ${firstName} is applying Data Science in many different domains.`}
             </p>
         </section>
     )
